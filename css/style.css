@@ -2,3 +2,7 @@
         width: 250px;
         height: 250px;
     }
+    
+    h5 {
+        font-style: bold;
+    }
