@@ -11,7 +11,7 @@ Then navigate to the portfolio folder using cd path to where portfolio folder is
 Open portfolio folder in text editor.
 Run the index.html on your browser
 
-##Technologies Used
+## Technologies Used
 HTML
 CSS
 Browser
