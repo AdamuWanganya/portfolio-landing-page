@@ -10,4 +10,9 @@
     .container {
         border: 2px solid rgb(0, 26, 255);
         padding: 6px;
+        background-color: #328da8;
+    }
+    
+    body {
+        background-color: #32a8a4;
     }
