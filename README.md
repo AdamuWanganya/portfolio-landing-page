@@ -8,7 +8,7 @@ https://adamuwanganya.github.io/portfolio-landing-page/
 
 ## Screeshot
 This is the screenshot of my project
-[![Screenshot-from-2021-10-12-09-30-23.png](https://i.postimg.cc/Kzdv2ZM6/Screenshot-from-2021-10-12-09-30-23.png)](https://postimg.cc/cgBN7GTh)
+https://i.postimg.cc/Kzdv2ZM6/Screenshot-from-2021-10-12-09-30-23.png
 
 
 By Adamu Wanganya
