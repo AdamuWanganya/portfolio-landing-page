@@ -7,8 +7,8 @@ This is the live link of my project.
 https://adamuwanganya.github.io/portfolio-landing-page/
 
 ## Screeshot
-This is the screenshot of my project
-https://i.postimg.cc/Kzdv2ZM6/Screenshot-from-2021-10-12-09-30-23.png
+
+[![portfolio.png](https://i.postimg.cc/htSYgrwS/portfolio.png)](https://postimg.cc/JG2x5bMg)
 
 
 By Adamu Wanganya
