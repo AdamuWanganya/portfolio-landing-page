@@ -1,6 +1,15 @@
 ## MY PORTFOLIO
 This is my personal portfolio project.
 
+## Live Demo
+This is the live link of my project.
+
+https://adamuwanganya.github.io/portfolio-landing-page/
+
+## Screeshot
+https://postimg.cc/cgBN7GTh
+
+
 By Adamu Wanganya
 ## Description
 This is my portfolio peronal project that uses some of common HTML tags,custom-made stylesheet,indentation and spacing with regular commits and the project is deployed to GitHub Pages.
