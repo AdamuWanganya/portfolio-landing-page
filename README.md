@@ -13,6 +13,9 @@ https://adamuwanganya.github.io/portfolio-landing-page/
 By Adamu Wanganya
 ## Description
 This is my portfolio peronal project that uses some of common HTML tags,custom-made stylesheet,indentation and spacing with regular commits and the project is deployed to GitHub Pages.
+ 
+ ## Live Demo
+ https://adamuwanganya.github.io/portfolio-landing-page/
 
 ## Setup Instructions
 $git clone https://github.com/AdamuWanganya/portfolio-landing-page on your terminal.
