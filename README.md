@@ -31,3 +31,4 @@ Incase you encounter any issues with the website,please drop them at https://git
 
 ## License
 License: MIT Copyright (c) 2020 adamuwanganya.
+This is afree licence software feel free to use it
