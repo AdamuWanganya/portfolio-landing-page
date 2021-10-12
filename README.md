@@ -8,8 +8,11 @@ https://adamuwanganya.github.io/portfolio-landing-page/
 
 ## Screeshot
 
-[![portfolio.png](https://i.postimg.cc/htSYgrwS/portfolio.png)](https://postimg.cc/JG2x5bMg)
 
+
+
+
+[![Portfolio-landing.png](https://i.postimg.cc/htSYgrwS/portfolio.png)](https://postimg.cc/JG2x5bMg)
 
 By Adamu Wanganya
 ## Description
