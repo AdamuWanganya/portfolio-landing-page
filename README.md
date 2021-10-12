@@ -7,7 +7,7 @@ This is the live link of my project.
 https://adamuwanganya.github.io/portfolio-landing-page/
 
 ## Screeshot
-[![portfolio.png](https://i.postimg.cc/htSYgrwS/portfolio.png)](https://postimg.cc/JG2x5bMg) )
+[![portfolio.png](https://i.postimg.cc/htSYgrwS/portfolio.png)](https://postimg.cc/JG2x5bMg) 
 
 
 By Adamu Wanganya
